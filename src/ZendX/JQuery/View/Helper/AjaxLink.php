@@ -23,7 +23,7 @@
 /**
  * @see Zend_View_Helper_HtmlElement
  */
-include_once "Zend/View/Helper/HtmlElement.php";
+//include_once "Zend/View/Helper/HtmlElement.php";
 
 /**
  * jQuery Accordion Pane, goes with Accordion Container
